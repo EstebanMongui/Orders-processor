@@ -1,9 +1,9 @@
 {
-  "name": "orders-processor",
+  "name": "roducts-manager",
   "vendor": "itglobers",
   "version": "0.0.1",
   "title": "VTEX service lab",
-  "description": "This is a service that allows to create, update and process some orders",
+  "description": "It is a service that allows to create, update and delete a product and also manage its stock",
   "categories": [],
   "dependencies": {},
   "builders": {
